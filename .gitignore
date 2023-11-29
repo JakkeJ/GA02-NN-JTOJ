@@ -1,0 +1,23 @@
+__pycache__/
+*.h5
+GA02 Code.zip
+Presentation/GA02 Presentation.pptx
+Presentation/_agent_model.py.png
+Presentation/_agent_model_pt.png
+Presentation/Length Mean Moving Average.png
+Presentation/Loss Mean Moving Average.png
+Presentation/Loss-3bfs-3.png
+Presentation/Loss-5buffer.png
+Presentation/Mean Length-3bfs-3.png
+Presentation/Mean Length-5buffer.png
+Presentation/neural_network_model.png
+Presentation/prepare_input_pt.png
+Presentation/prepare_input_tf.png
+Presentation/Reward Mean Moving Average.png
+Presentation/Reward-3bfs-3.png
+Presentation/Reward-5buffer.png
+Presentation/save_load_model.png
+Presentation/train_agent.png
+Presentation/train_agent_tf.png
+Presentation/visualise_game_added_if_elif.png
+GA02 Presentation Jim Tore Jakobsen.mp4
